@@ -1,0 +1,961 @@
+#<Mechanize::Page
+ {url
+  #<URI::HTTP:0x007f90ea13f0b0 URL:http://www.amazon.fr/clavier/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Aclavier>}
+ {meta_refresh}
+ {title "Amazon.fr : clavier"}
+ {iframes}
+ {frames}
+ {links
+  #<Mechanize::Page::Link "\n        Amazon\n        \n      " "/">
+  #<Mechanize::Page::Link "Chez vous" "/gp/yourstore/home">
+  #<Mechanize::Page::Link
+   "Promotions"
+   "/promotions-bons-plans/b?ie=UTF8&node=51375011">
+  #<Mechanize::Page::Link "Chèques-cadeaux" "/gp/gc">
+  #<Mechanize::Page::Link "Vendre" "/b?ie=UTF8&node=2383619031">
+  #<Mechanize::Page::Link "Aide" "/Aide/b?ie=UTF8&node=559912">
+  #<Mechanize::Page::Link
+   "\n          \n            \n              Parcourir les\n              boutiques\n            \n          \n          \n        "
+   "/gp/site-directory">
+  #<Mechanize::Page::Link
+   "\n          \n            \n              \n                Bonjour.\n                Identifiez-vous\n              \n              Votre compte\n            \n          \n          \n        "
+   "https://www.amazon.fr/ap/signin?_encoding=UTF8&openid.assoc_handle=frflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dgno_yam_ya">
+  #<Mechanize::Page::Link
+   "\n            \n              \n                Adhérez à\n                Premium\n              \n            \n            \n          "
+   "/gp/prime">
+  #<Mechanize::Page::Link
+   "\n            \n              \n\n                 \n                Panier\n\n                \n                0\n\n              \n            \n            \n          "
+   "/gp/cart/view.html">
+  #<Mechanize::Page::Link
+   "\n            \n              \n                Liste\n                d'envies\n              \n            \n            \n          "
+   "/gp/registry/wishlist">
+  #<Mechanize::Page::Link
+   "\n                Amazon.fr\n              "
+   "/b?ie=UTF8&node=405320">
+  #<Mechanize::Page::Link
+   "\n                   Meilleures ventes\n                  "
+   "/gp/bestsellers">
+  #<Mechanize::Page::Link
+   "\n                   Promotions\n                  "
+   "/promotions-bons-plans/b?ie=UTF8&node=51375011">
+  #<Mechanize::Page::Link
+   "\n                   Listes d'envies\n                  "
+   "/gp/registry/wishlist">
+  #<Mechanize::Page::Link
+   "\n                   Liste de naissance\n                  "
+   "/gp/registry/baby">
+  #<Mechanize::Page::Link
+   "\n                   Chèques-cadeaux\n                  "
+   "/gp/gc">
+  #<Mechanize::Page::Link
+   "\n                   Economisez en vous abonnant\n                  "
+   "/%C3%A9conomie-10-r%C3%A9duction-livraison-gratuite-produits-quotidiens/b?ie=UTF8&node=424615031">
+  #<Mechanize::Page::Link
+   "\n                   Options de livraison\n                  "
+   "/gp/help/customer/display.html?ie=UTF8&nodeId=548566">
+  #<Mechanize::Page::Link
+   "\n                   Vendez !\n                  "
+   "/gp/seller/sell-your-stuff.html">
+  #<Mechanize::Page::Link "boutique " nil>
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Logitech-Keyboard-K120-Clavier-Azerty/dp/B003V0QEV0">
+  #<Mechanize::Page::Link
+   " Logitech Keyboard K120 Clavier Azerty USB"
+   "http://www.amazon.fr/Logitech-Keyboard-K120-Clavier-Azerty/dp/B003V0QEV0">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Logitech-Keyboard-K120-Clavier-Azerty/dp/B003V0QEV0">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B003V0QEV0">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B003V0QEV0">
+  #<Mechanize::Page::Link
+   "22"
+   "http://www.amazon.fr/product-reviews/B003V0QEV0">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "\n        "
+   "/informatique-ordinateurs-imprimantes-r%C3%A9seaux-composants/b?ie=UTF8&node=340858031&qid=1375904210&sr=8-2-tc">
+  #<Mechanize::Page::Link
+   "\n      \n        Informatique\n      \n    "
+   "/informatique-ordinateurs-imprimantes-r%C3%A9seaux-composants/b?ie=UTF8&node=340858031&qid=1375904210&sr=8-2-tc">
+  #<Mechanize::Page::Link
+   "Souris"
+   "/Informatique-souris/b?ie=UTF8&node=430331031&qid=1375904210&sr=8-2-tc">
+  #<Mechanize::Page::Link
+   "Claviers"
+   "/Informatique-clavier/b?ie=UTF8&node=430328031&qid=1375904210&sr=8-2-tc">
+  #<Mechanize::Page::Link
+   "Tapis de souris"
+   "/Informatique-accessoires-tapis-souris/b?ie=UTF8&node=430278031&qid=1375904210&sr=8-2-tc">
+  #<Mechanize::Page::Link
+   "Accessoires claviers et Souris"
+   "/Informatique-accessoires-clavier-souris/b?ie=UTF8&node=430258031&qid=1375904210&sr=8-2-tc">
+  #<Mechanize::Page::Link
+   "Claviers, Souris et Tablettes"
+   "/Informatique-clavier-souris-tablette/b?ie=UTF8&node=429876031&qid=1375904210&sr=8-2-tc">
+  #<Mechanize::Page::Link
+   "Ensembles Clavier et Souris"
+   "/Informatique-ensemble-clavier-souris/b?ie=UTF8&node=430329031&qid=1375904210&sr=8-2-tc">
+  #<Mechanize::Page::Link
+   "Tablettes graphiques"
+   "/Informatique-tablette-graphique-stylo/b?ie=UTF8&node=430332031&qid=1375904210&sr=8-2-tc">
+  #<Mechanize::Page::Link
+   "Pavés numériques"
+   "/Informatique-pav%C3%A9-num%C3%A9rique/b?ie=UTF8&node=430330031&qid=1375904210&sr=8-2-tc">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Logitech-Desktop-MK120-Ensemble-despacement/dp/B003V4A5UW">
+  #<Mechanize::Page::Link
+   " Logitech Desktop MK120 Ensemble Clavier et Souris filaire Barre d'espacement incurvée Azerty Noir"
+   "http://www.amazon.fr/Logitech-Desktop-MK120-Ensemble-despacement/dp/B003V4A5UW">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Logitech-Desktop-MK120-Ensemble-despacement/dp/B003V4A5UW">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B003V4A5UW">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B003V4A5UW">
+  #<Mechanize::Page::Link
+   "44"
+   "http://www.amazon.fr/product-reviews/B003V4A5UW">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Informatique (194 695)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "High-Tech (202 245)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aelectronics%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Jeux vidéo (626)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Avideogames%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Cuisine & Maison (115 159)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Akitchen%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Fournitures de bureau (115 112)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aoffice-products%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Musique MP3 (13 799)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Adigital-music%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Livres en français (6 411)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Astripbooks%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Musique (1 982)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Apopular%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Musique classique (1 743)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aclassical%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Instruments de musique & Sono (1 622)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Ami%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Livres anglais et étrangers (890)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aenglish-books%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Autres (856)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Amisc%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "DVD & Blu-ray (320)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Advd%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Jeux et Jouets (312)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Atoys%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Bricolage (207)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Adiy%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Bagages (163)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aluggage%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Gros électroménager (85)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aappliances%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Luminaires et Eclairage (84)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Alighting%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Auto et Moto (53)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aautomotive%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Applis pour Android (35)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Amobile-apps%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Logiciels (33)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Asoftware%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Vêtements et accessoires (28)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aclothing%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Sports et Loisirs (27)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Asports%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Bébés & Puériculture (19)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Ababy%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Chaussures et Sacs (16)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Ashoes%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Santé et Soins du corps (13)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Ahpc%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Bijoux (5)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Ajewelry%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Montres (4)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Awatches%2Ck%3Aclavier">
+  #<Mechanize::Page::Link "En savoir plus sur Amazon Prime." "/gp/prime">
+  #<Mechanize::Page::Link
+   "Téléchargements MP3"
+   "/T%C3%A9l%C3%A9charger-Musique-mp3/b?ie=UTF8&node=77196031">
+  #<Mechanize::Page::Link "Cloud Player" "/gp/dmusic/mp3/player">
+  #<Mechanize::Page::Link
+   "Cloud Player pour Android"
+   "/gp/feature.html?ie=UTF8&docId=1000656703">
+  #<Mechanize::Page::Link
+   "Cloud Player pour iOS"
+   "/gp/feature.html?ie=UTF8&docId=1000656713">
+  #<Mechanize::Page::Link "Votre Cloud Drive" "/clouddrive">
+  #<Mechanize::Page::Link
+   "Obtenir l'application de bureau Cloud Drive"
+   "/gp/feature.html?ie=UTF8&docId=1000655953">
+  #<Mechanize::Page::Link
+   "Cloud Drive Photos pour Android"
+   "/gp/feature.html?ie=UTF8&docId=1000683963">
+  #<Mechanize::Page::Link
+   "Cloud Drive Photos pour iPhone"
+   "/gp/feature.html?ie=UTF8&docId=1000721283">
+  #<Mechanize::Page::Link
+   "En savoir plus sur Cloud Drive"
+   "/gp/feature.html?ie=UTF8&docId=1000655943">
+  #<Mechanize::Page::Link "Kindle" "/dp/B007HCCOD0">
+  #<Mechanize::Page::Link "Kindle Paperwhite 3G" "/dp/B007OZNWRC">
+  #<Mechanize::Page::Link "Accessoires Kindle" "/b?ie=UTF8&node=838317031">
+  #<Mechanize::Page::Link
+   "Tous les ebooks Kindle"
+   "/ebooks-kindle/b?ie=UTF8&node=695398031">
+  #<Mechanize::Page::Link
+   "Bibliothèque de prêt Kindle"
+   "/gp/feature.html?ie=UTF8&docId=1000660533">
+  #<Mechanize::Page::Link
+   "Offre Éclair Kindle"
+   "/gp/feature.html?ie=UTF8&docId=1000657363">
+  #<Mechanize::Page::Link "Kindle Fire" "/dp/B0083Q04M2">
+  #<Mechanize::Page::Link "Kindle Fire HD" "/dp/B0083PWAWU">
+  #<Mechanize::Page::Link "Kindle Fire HD 8,9''" "/dp/B00ANZNBJO">
+  #<Mechanize::Page::Link "Accessoires Kindle" "/b?ie=UTF8&node=838317031">
+  #<Mechanize::Page::Link
+   "Applications de lecture gratuites"
+   "/gp/feature.html?ie=UTF8&docId=1000538763">
+  #<Mechanize::Page::Link "Votre compte Kindle" "/gp/digital/fiona/manage">
+  #<Mechanize::Page::Link "Applis" "/mobile-apps/b?ie=UTF8&node=1661654031">
+  #<Mechanize::Page::Link "Jeux" "/b?ie=UTF8&node=1722773031">
+  #<Mechanize::Page::Link "Applications Amazon" "/b?ie=UTF8&node=541319031">
+  #<Mechanize::Page::Link
+   "Vos applis et vos appareils"
+   "/gp/mas/your-account/myapps">
+  #<Mechanize::Page::Link
+   "Tous les livres"
+   "/livre-achat-occasion-litterature-roman/b?ie=UTF8&node=301061">
+  #<Mechanize::Page::Link
+   "Tous les ebooks Kindle"
+   "/ebooks-kindle/b?ie=UTF8&node=695398031">
+  #<Mechanize::Page::Link
+   "Livres anglais et étrangers"
+   "/livres-anglais-etranger/b?ie=UTF8&node=52042011">
+  #<Mechanize::Page::Link
+   "Manuels scolaires et parascolaires"
+   "/ecole-cahiers-soutien-scolaire-livre/b?ie=UTF8&node=301146">
+  #<Mechanize::Page::Link
+   "Livres audio"
+   "/livre-audio-contes-apprendre-musical/b?ie=UTF8&node=1193746">
+  #<Mechanize::Page::Link
+   "Toute la musique"
+   "/Musique-cd-disques-coffrets-classique-imports-doccasion/b?ie=UTF8&node=301062">
+  #<Mechanize::Page::Link
+   "Musique classique"
+   "/Musique-cd-classique/b?ie=UTF8&node=301174">
+  #<Mechanize::Page::Link
+   "Téléchargements MP3"
+   "/T%C3%A9l%C3%A9charger-Musique-mp3/b?ie=UTF8&node=77196031">
+  #<Mechanize::Page::Link
+   "Instruments de musique & Sono"
+   "/b?ie=UTF8&node=340861031">
+  #<Mechanize::Page::Link
+   "DVD & Blu-ray"
+   "/dvd-blu-ray-films/b?ie=UTF8&node=405322">
+  #<Mechanize::Page::Link
+   "Séries TV"
+   "/serie-tv-t%C3%A9l%C3%A9film/b?ie=UTF8&node=409468">
+  #<Mechanize::Page::Link
+   "Blu-ray"
+   "/blu-ray-3d-films-HD/b?ie=UTF8&node=294297011">
+  #<Mechanize::Page::Link
+   "Tous les jeux vidéo"
+   "/jeux-video-consoles-portables-accessoires-pc/b?ie=UTF8&node=530490">
+  #<Mechanize::Page::Link
+   "Consoles et Accessoires"
+   "/Consoles-Accessoires-Jeux-vid%C3%A9o/b?ie=UTF8&node=548738">
+  #<Mechanize::Page::Link "Jeux PC" "/Jeux-video-PC/b?ie=UTF8&node=548026">
+  #<Mechanize::Page::Link
+   "Téléphones portables & fixes"
+   "/t%C3%A9l%C3%A9phonie-t%C3%A9l%C3%A9phone-portable-smartphone/b?ie=UTF8&node=13910711">
+  #<Mechanize::Page::Link
+   "Photo & Caméscopes"
+   "/appareils-photo-num%C3%A9riques-canon-camescopes/b?ie=UTF8&node=13910691">
+  #<Mechanize::Page::Link
+   "TV & Vidéo"
+   "/televiseur-lcd-lecteur-dvd-bluray/b?ie=UTF8&node=13910681">
+  #<Mechanize::Page::Link "Home Cinéma & Hi-Fi" "/b?ie=UTF8&node=682942031">
+  #<Mechanize::Page::Link
+   "Lecteurs MP3 & Casques"
+   "/lecteurs-MP3-accessoires-audio-casque/b?ie=UTF8&node=13910701">
+  #<Mechanize::Page::Link
+   "GPS & Auto"
+   "/gps-accessoires-radar-TomTom-Garmin/b?ie=UTF8&node=13910721">
+  #<Mechanize::Page::Link
+   "Instruments de musique & Sono"
+   "/b?ie=UTF8&node=340861031">
+  #<Mechanize::Page::Link
+   "Tous les accessoires High-Tech"
+   "/b?ie=UTF8&node=2403398031">
+  #<Mechanize::Page::Link
+   "Tout l'univers High-Tech"
+   "/photo-TV-mp3-Hifi-GPS/b?ie=UTF8&node=13921051">
+  #<Mechanize::Page::Link
+   "Ordinateurs portables & Tablettes"
+   "/ordinateurs-pc-portables-mac-tablettes/b?ie=UTF8&node=514846031">
+  #<Mechanize::Page::Link
+   "Ordinateurs de bureau & Ecrans"
+   "/pc-ordinateurs-bureau-imac-hp/b?ie=UTF8&node=1400411031">
+  #<Mechanize::Page::Link
+   "Stockage & Réseaux"
+   "/disques-durs-cpl-souris-cables/b?ie=UTF8&node=514849031">
+  #<Mechanize::Page::Link
+   "Composants PC"
+   "/processeurs-cartes-meres-composants-ram/b?ie=UTF8&node=427941031">
+  #<Mechanize::Page::Link
+   "Imprimantes & Encres"
+   "/Informatique-Imprimante-Cartouche-encre/b?ie=UTF8&node=514847031">
+  #<Mechanize::Page::Link "Logiciels" "/logiciels/b?ie=UTF8&node=530488">
+  #<Mechanize::Page::Link
+   "Fournitures scolaires et de bureau"
+   "/fournitures-materiel-bureau-papiers-mobilier/b?ie=UTF8&node=192419031">
+  #<Mechanize::Page::Link "Jeux PC" "/Jeux-video-PC/b?ie=UTF8&node=548026">
+  #<Mechanize::Page::Link
+   "Tous les accessoires Informatique"
+   "/b?ie=UTF8&node=2403398031">
+  #<Mechanize::Page::Link
+   "Tout l'univers Informatique"
+   "/informatique-ordinateurs-imprimantes-r%C3%A9seaux-composants/b?ie=UTF8&node=340858031">
+  #<Mechanize::Page::Link
+   "Jeux et Jouets"
+   "/jeux-jouets/b?ie=UTF8&node=322086011">
+  #<Mechanize::Page::Link
+   "Bébés & Puériculture"
+   "/bebes-puericulture/b?ie=UTF8&node=206617031">
+  #<Mechanize::Page::Link
+   "Vêtements et Chaussures"
+   "/vetements-chaussures-bebe/b?ie=UTF8&node=214972031">
+  #<Mechanize::Page::Link
+   "Livres"
+   "/livre-enfant-album-jeunesse/b?ie=UTF8&node=301137">
+  #<Mechanize::Page::Link
+   "DVD"
+   "/dvd-blu-ray-enfants-jeunesse/b?ie=UTF8&node=409412">
+  #<Mechanize::Page::Link "Liste de naissance" "/gp/registry/baby">
+  #<Mechanize::Page::Link
+   "Petit électroménager\n"
+   "/petit-%C3%A9lectrom%C3%A9nager/b?ie=UTF8&node=57696031">
+  #<Mechanize::Page::Link "Gros électroménager\n" "/b?ie=UTF8&node=908826031">
+  #<Mechanize::Page::Link
+   "Arts culinaires et Arts de la Table"
+   "/casseroles-ustensiles-arts-culinaires/b?ie=UTF8&node=59451031">
+  #<Mechanize::Page::Link
+   "Ameublement et Décoration"
+   "/Ameublement-D%C3%A9coration-Cuisine-Cat%C3%A9gories-Maison/b?ie=UTF8&node=57694031">
+  #<Mechanize::Page::Link
+   "Luminaires et Eclairage"
+   "/b?ie=UTF8&node=213080031">
+  #<Mechanize::Page::Link
+   "Tous les produits Cuisine et Maison"
+   "/cuisine-maison-%C3%A9lectrom%C3%A9nager/b?ie=UTF8&node=57004031">
+  #<Mechanize::Page::Link
+   "Outillage électroportatif"
+   "/perceuses-visseuses-scies-meuleuses-ponceuses/b?ie=UTF8&node=1794242031">
+  #<Mechanize::Page::Link
+   "Outillage à main"
+   "/tournevis-marteaux-cl%C3%A9s-douilles-pinces/b?ie=UTF8&node=1794243031">
+  #<Mechanize::Page::Link
+   "Luminaires et Eclairage"
+   "/b?ie=UTF8&node=213080031">
+  #<Mechanize::Page::Link
+   "Tous les produits Bricolage"
+   "/outillage-%C3%A9lectroportatif-quincaillerie-plomberie-%C3%A9lectricit%C3%A9/b?ie=UTF8&node=590748031">
+  #<Mechanize::Page::Link "Tout pour les animaux" "/b?ie=UTF8&node=1571268031">
+  #<Mechanize::Page::Link
+   "Parfum et Beauté"
+   "/Parfums-cosm%C3%A9tiques/b?ie=UTF8&node=197858031">
+  #<Mechanize::Page::Link
+   "Santé et Soins du corps"
+   "/hygi%C3%A8ne-sant%C3%A9-soins-du-corps/b?ie=UTF8&node=197861031">
+  #<Mechanize::Page::Link "Hygiène et Entretien" "/b?ie=UTF8&node=667755031">
+  #<Mechanize::Page::Link
+   "Vêtements"
+   "/vetements-accessoires-mode/b?ie=UTF8&node=340855031">
+  #<Mechanize::Page::Link
+   "Chaussures"
+   "/chaussures-sacs-mode/b?ie=UTF8&node=215934031">
+  #<Mechanize::Page::Link
+   "Maroquinerie"
+   "/sacs-main-accessoires-portefeuilles-lunettes/b?ie=UTF8&node=600738031">
+  #<Mechanize::Page::Link "Bagages" "/bagages/b?ie=UTF8&node=2454145031">
+  #<Mechanize::Page::Link "Montres" "/Montres/b?ie=UTF8&node=60649031">
+  #<Mechanize::Page::Link
+   "Bijoux"
+   "/Bijoux-Bagues-Bracelets-Colliers-Boucles-d-oreilles/b?ie=UTF8&node=193710031">
+  #<Mechanize::Page::Link
+   "Fitness et Musculation"
+   "/fitness-musculation-electrostimulation-yoga-pilates/b?ie=UTF8&node=339867031">
+  #<Mechanize::Page::Link
+   "Football"
+   "/football-foot-supporters-drapeaux-maillots/b?ie=UTF8&node=339892031">
+  #<Mechanize::Page::Link
+   "Camping et Randonnée"
+   "/Randonn%C3%A9e-Camping-sport-loisir/b?ie=UTF8&node=339808031">
+  #<Mechanize::Page::Link
+   "Cyclisme"
+   "/Cyclisme-v%C3%A9lo-vtt-bmx-roues/b?ie=UTF8&node=340001031">
+  #<Mechanize::Page::Link
+   "Vêtements de sport"
+   "/vetements-sport-sweatshirt-veste-debardeur/b?ie=UTF8&node=1610709031">
+  #<Mechanize::Page::Link
+   "Tous les Sports et Loisirs"
+   "/sports-loisirs-fitness/b?ie=UTF8&node=325614031">
+  #<Mechanize::Page::Link
+   "Pièces et accessoires Auto"
+   "/Voiture-et-moto/b?ie=UTF8&node=1571265031">
+  #<Mechanize::Page::Link "Outils et dépannage " "/b?ie=UTF8&node=2567038031">
+  #<Mechanize::Page::Link
+   "Pièces et accessoires Moto"
+   "/b?ie=UTF8&node=2429489031">
+  #<Mechanize::Page::Link
+   "GPS & Auto"
+   "/gps-accessoires-radar-TomTom-Garmin/b?ie=UTF8&node=13910721">
+  #<Mechanize::Page::Link "Toutes les boutiques" "/gp/site-directory">
+  #<Mechanize::Page::Link
+   "\n      Identifiez-vous\n    "
+   "https://www.amazon.fr/ap/signin?_encoding=UTF8&openid.assoc_handle=frflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_signin">
+  #<Mechanize::Page::Link
+   "Commencer ici."
+   "https://www.amazon.fr/ap/register?_encoding=UTF8&openid.assoc_handle=frflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_newcust">
+  #<Mechanize::Page::Link
+   "Votre compte"
+   "https://www.amazon.fr/gp/css/homepage.html">
+  #<Mechanize::Page::Link
+   "Vos commandes"
+   "https://www.amazon.fr/gp/css/order-history">
+  #<Mechanize::Page::Link "Votre liste d'envies" "/gp/registry/wishlist">
+  #<Mechanize::Page::Link "Vos recommandations" "/gp/yourstore">
+  #<Mechanize::Page::Link
+   "Gérer vos abonnements"
+   "https://www.amazon.fr/gp/subscribe-and-save/manager/viewsubscriptions">
+  #<Mechanize::Page::Link "Votre compte Kindle" "/gp/digital/fiona/manage">
+  #<Mechanize::Page::Link "Votre Cloud Player" "/gp/dmusic/mp3/player">
+  #<Mechanize::Page::Link "Votre Cloud Drive" "/clouddrive">
+  #<Mechanize::Page::Link
+   "Vos applis et vos appareils"
+   "https://www.amazon.fr/gp/mas/your-account/myapps">
+  #<Mechanize::Page::Link
+   "identifiez-vous"
+   "https://www.amazon.fr/ap/signin?_encoding=UTF8&openid.assoc_handle=frflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_signin_cart">
+  #<Mechanize::Page::Link
+   "allez sur votre panier"
+   "/gp/cart/view.html?ie=UTF8&hasWorkingJavascript=1">
+  #<Mechanize::Page::Link "réessayez" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "\n      Voir le panier\n      \n        (0 article)\n        (0 article)\n        (0 articles)\n      \n    "
+   "/gp/cart/view.html?ie=UTF8&hasWorkingJavascript=1">
+  #<Mechanize::Page::Link "Créer une liste d'envies" "/gp/wishlist">
+  #<Mechanize::Page::Link
+   "Trouver une liste d'envies"
+   "/gp/registry/search.html?ie=UTF8&type=wishlist">
+  #<Mechanize::Page::Link "Liste d'envies universelle" "/wishlist/universal">
+  #<Mechanize::Page::Link "Liste de naissance" "/gp/registry/baby">
+  #<Mechanize::Page::Link
+   "\n                Identifiez-vous\n            "
+   "https://www.amazon.fr/ap/signin?_encoding=UTF8&openid.assoc_handle=frflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_custrec_signin">
+  #<Mechanize::Page::Link
+   "Commencer ici."
+   "https://www.amazon.fr/ap/register?_encoding=UTF8&openid.assoc_handle=frflex&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_custrec_newcust">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Logitech-Wireless-K400-raccourci-multim%C3%A9dia/dp/B005DVQZM8">
+  #<Mechanize::Page::Link
+   " Logitech Wireless Desktop K400 Clavier sans-fil Portée sans-fil de 10 mètres Large pavé tactile de 9 cm intégré Unifying Cryptage AES 128 bits -Touches de raccourci multimédia Azerty Noir"
+   "http://www.amazon.fr/Logitech-Wireless-K400-raccourci-multim%C3%A9dia/dp/B005DVQZM8">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Logitech-Wireless-K400-raccourci-multim%C3%A9dia/dp/B005DVQZM8">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B005DVQZM8">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B005DVQZM8">
+  #<Mechanize::Page::Link
+   "185"
+   "http://www.amazon.fr/product-reviews/B005DVQZM8">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Logitech-Illuminated-920-001167-%C3%A9clair%C3%A9es-PerfectStroke/dp/B001FGGXPO">
+  #<Mechanize::Page::Link
+   " Logitech Illuminated - 920-001167 - Keyboard Clavier Touches Rétro éclairées PerfectStroke USB Azerty Noir"
+   "http://www.amazon.fr/Logitech-Illuminated-920-001167-%C3%A9clair%C3%A9es-PerfectStroke/dp/B001FGGXPO">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Logitech-Illuminated-920-001167-%C3%A9clair%C3%A9es-PerfectStroke/dp/B001FGGXPO">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B001FGGXPO">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B001FGGXPO">
+  #<Mechanize::Page::Link
+   "237"
+   "http://www.amazon.fr/product-reviews/B001FGGXPO">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/AmazonBasics-Clavier-AZERTY-filaire-disposition/dp/B008O4H3FO">
+  #<Mechanize::Page::Link
+   " AmazonBasics Clavier AZERTY filaire disposition France (Noir)"
+   "http://www.amazon.fr/AmazonBasics-Clavier-AZERTY-filaire-disposition/dp/B008O4H3FO">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/AmazonBasics-Clavier-AZERTY-filaire-disposition/dp/B008O4H3FO">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B008O4H3FO">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B008O4H3FO">
+  #<Mechanize::Page::Link
+   "20"
+   "http://www.amazon.fr/product-reviews/B008O4H3FO">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Microsoft-Wired-Keyboard-200-Business/dp/B004M4OV3W">
+  #<Mechanize::Page::Link
+   " Microsoft Wired Keyboard 200 for Business Clavier USB noir français"
+   "http://www.amazon.fr/Microsoft-Wired-Keyboard-200-Business/dp/B004M4OV3W">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Microsoft-Wired-Keyboard-200-Business/dp/B004M4OV3W">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B004M4OV3W">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B004M4OV3W">
+  #<Mechanize::Page::Link
+   "16"
+   "http://www.amazon.fr/product-reviews/B004M4OV3W">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Microsoft-Wireless-Desktop-800-Compatible/dp/B0042YQ4QY">
+  #<Mechanize::Page::Link
+   " Microsoft Wireless Desktop 800 Clavier Azerty/Souris sans fil Noir Compatible Windows 8"
+   "http://www.amazon.fr/Microsoft-Wireless-Desktop-800-Compatible/dp/B0042YQ4QY">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Microsoft-Wireless-Desktop-800-Compatible/dp/B0042YQ4QY">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B0042YQ4QY">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B0042YQ4QY">
+  #<Mechanize::Page::Link
+   "56"
+   "http://www.amazon.fr/product-reviews/B0042YQ4QY">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Perixx-PX-1100FR-Clavier-gaming-Repose-poignets/dp/B00BWY52JC">
+  #<Mechanize::Page::Link
+   " Perixx PX-1100FR, Clavier gaming - Clavier filaire - Gaming style 1,6 kg solide - Rouge/Bleu/ Violet LED Retro eclaire - Ajustement eclairage - 20 millions de cycles de vie - 1.8m Cable - Repose-poignets reglables - AZERTY"
+   "http://www.amazon.fr/Perixx-PX-1100FR-Clavier-gaming-Repose-poignets/dp/B00BWY52JC">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Perixx-PX-1100FR-Clavier-gaming-Repose-poignets/dp/B00BWY52JC">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B00BWY52JC">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B00BWY52JC">
+  #<Mechanize::Page::Link
+   "7"
+   "http://www.amazon.fr/product-reviews/B00BWY52JC">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 626 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Avideogames%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Logitech-Wireless-Combo-MK260-r%C3%A9cepteur/dp/B004VPLXM4">
+  #<Mechanize::Page::Link
+   " Logitech Wireless Combo MK260 Clavier sans-fil + souris sans-fil récepteur sans-fil USB Azerty Noir"
+   "http://www.amazon.fr/Logitech-Wireless-Combo-MK260-r%C3%A9cepteur/dp/B004VPLXM4">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Logitech-Wireless-Combo-MK260-r%C3%A9cepteur/dp/B004VPLXM4">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B004VPLXM4">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B004VPLXM4">
+  #<Mechanize::Page::Link
+   "137"
+   "http://www.amazon.fr/product-reviews/B004VPLXM4">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Logitech-920-002723-Media-Keyboard-Clavier/dp/B003V4A5W0">
+  #<Mechanize::Page::Link
+   " Logitech 920-002723 Media Keyboard K200 Clavier Noir"
+   "http://www.amazon.fr/Logitech-920-002723-Media-Keyboard-Clavier/dp/B003V4A5W0">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Logitech-920-002723-Media-Keyboard-Clavier/dp/B003V4A5W0">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B003V4A5W0">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B003V4A5W0">
+  #<Mechanize::Page::Link
+   "21"
+   "http://www.amazon.fr/product-reviews/B003V4A5W0">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Mad-Catz-Clavier-Gaming-pour/dp/B000ZNXYJ6">
+  #<Mechanize::Page::Link
+   " Mad Catz V.7 Clavier Gaming pour PC - Noir mat"
+   "http://www.amazon.fr/Mad-Catz-Clavier-Gaming-pour/dp/B000ZNXYJ6">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Mad-Catz-Clavier-Gaming-pour/dp/B000ZNXYJ6">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B000ZNXYJ6">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B000ZNXYJ6">
+  #<Mechanize::Page::Link
+   "101"
+   "http://www.amazon.fr/product-reviews/B000ZNXYJ6">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Perixx-PERIBOARD-407W-Mini-Clavier-filaire/dp/B0064ALRUM">
+  #<Mechanize::Page::Link
+   " Perixx PERIBOARD-407W, Mini Clavier filaire - 320x141x25mm - Port USB - Blanc - AZERTY"
+   "http://www.amazon.fr/Perixx-PERIBOARD-407W-Mini-Clavier-filaire/dp/B0064ALRUM">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Perixx-PERIBOARD-407W-Mini-Clavier-filaire/dp/B0064ALRUM">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B0064ALRUM">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B0064ALRUM">
+  #<Mechanize::Page::Link
+   "20"
+   "http://www.amazon.fr/product-reviews/B0064ALRUM">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Keysonic-KSK-6001-Clavier-Gamer-r%C3%A9tro-%C3%A9clairage/dp/B0050H9YS2">
+  #<Mechanize::Page::Link
+   " Keysonic KSK-6001 UELX Clavier Gamer avec rétro-éclairage Bleu"
+   "http://www.amazon.fr/Keysonic-KSK-6001-Clavier-Gamer-r%C3%A9tro-%C3%A9clairage/dp/B0050H9YS2">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Keysonic-KSK-6001-Clavier-Gamer-r%C3%A9tro-%C3%A9clairage/dp/B0050H9YS2">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B0050H9YS2">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B0050H9YS2">
+  #<Mechanize::Page::Link
+   "22"
+   "http://www.amazon.fr/product-reviews/B0050H9YS2">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Logitech-K310-Lavable-Clavier-filaire/dp/B00969DJPE">
+  #<Mechanize::Page::Link
+   " Logitech K310 Lavable Clavier filaire USB Noir"
+   "http://www.amazon.fr/Logitech-K310-Lavable-Clavier-filaire/dp/B00969DJPE">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Logitech-K310-Lavable-Clavier-filaire/dp/B00969DJPE">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B00969DJPE">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B00969DJPE">
+  #<Mechanize::Page::Link
+   "26"
+   "http://www.amazon.fr/product-reviews/B00969DJPE">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/Logitech-Keyboard-K120-Clavier-filaire/dp/B003V4A5VG">
+  #<Mechanize::Page::Link
+   " Logitech Keyboard K120 Clavier filaire Port USB Azerty -Noir"
+   "http://www.amazon.fr/Logitech-Keyboard-K120-Clavier-filaire/dp/B003V4A5VG">
+  #<Mechanize::Page::Link
+   "Acheter neuf"
+   "http://www.amazon.fr/Logitech-Keyboard-K120-Clavier-filaire/dp/B003V4A5VG">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B003V4A5VG">
+  #<Mechanize::Page::Link
+   " "
+   "http://www.amazon.fr/product-reviews/B003V4A5VG">
+  #<Mechanize::Page::Link
+   "22"
+   "http://www.amazon.fr/product-reviews/B003V4A5VG">
+  #<Mechanize::Page::Link
+   "Voir l'ensemble des 194 695 articles"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "2"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=2&rh=i%3Aaps%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "3"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=3&rh=i%3Aaps%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Suivant»"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=2&rh=i%3Aaps%2Ck%3Aclavier">
+  #<Mechanize::Page::Link "A9" "http://a9.com/?src=amz_spb_sas">
+  #<Mechanize::Page::Link
+   "Informatique (194 695)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Acomputers%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "High-Tech (202 245)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aelectronics%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Jeux vidéo (626)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Avideogames%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Cuisine & Maison (115 159)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Akitchen%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Fournitures de bureau (115 112)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aoffice-products%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Musique MP3 (13 799)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Adigital-music%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Livres en français (6 411)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Astripbooks%2Ck%3Aclavier">
+  #<Mechanize::Page::Link "+ Voir les 28 boutiques" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Musique (1 982)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Apopular%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Musique classique (1 743)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aclassical%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Instruments de musique & Sono (1 622)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Ami%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Livres anglais et étrangers (890)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aenglish-books%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Autres (856)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Amisc%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "DVD & Blu-ray (320)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Advd%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Jeux et Jouets (312)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Atoys%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Bricolage (207)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Adiy%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Bagages (163)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aluggage%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Gros électroménager (85)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aappliances%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Luminaires et Eclairage (84)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Alighting%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Auto et Moto (53)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aautomotive%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Applis pour Android (35)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Amobile-apps%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Logiciels (33)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Asoftware%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Vêtements et accessoires (28)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aclothing%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Sports et Loisirs (27)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Asports%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Bébés & Puériculture (19)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Ababy%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Chaussures et Sacs (16)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Ashoes%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Santé et Soins du corps (13)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Ahpc%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Bijoux (5)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Ajewelry%2Ck%3Aclavier">
+  #<Mechanize::Page::Link
+   "Montres (4)"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Awatches%2Ck%3Aclavier">
+  #<Mechanize::Page::Link "- Voir moins de boutiques" "javascript:void(0);">
+  #<Mechanize::Page::Link
+   "Qu'est-ce?"
+   "/gp/help/customer/display.html?ie=UTF8&nodeId=200287730&pop-up=1">
+  #<Mechanize::Page::Link
+   "- peuvent en bénéficier"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aaps%2Ck%3Aclavier%2Cp_76%3A1">
+  #<Mechanize::Page::Link
+   "Livraison gratuite"
+   "http://www.amazon.fr/clavier/s?ie=UTF8&keywords=clavier&page=1&rh=i%3Aaps%2Ck%3Aclavier%2Cp_76%3A1-">
+  #<Mechanize::Page::Link
+   "Sélection Team AAZ"
+   "/S%C3%A9lection-Team-AAZ/lm/R1FEFQTIBXKVJ6">
+  #<Mechanize::Page::Link
+   "Sélection Team AAZ"
+   "/S%C3%A9lection-Team-AAZ/lm/R1FEFQTIBXKVJ6">
+  #<Mechanize::Page::Link
+   "teamaaz \"Team AaZ\""
+   "/gp/richpub/listmania/byauthor/A1NO0Y2WH525YE">
+  #<Mechanize::Page::Link "Carrières" "/b?ie=UTF8&node=202589011">
+  #<Mechanize::Page::Link
+   "Qui sommes-nous ?"
+   "/gp/redirect.html?location=http://amazon-presse.fr/a-propos-damazon.html&token=6A5789F938F4257C79B73919F3617C18D4753044">
+  #<Mechanize::Page::Link "Presse" "http://www.amazon-presse.fr/">
+  #<Mechanize::Page::Link
+   "Amazon et notre planète"
+   "/b?ie=UTF8&node=323594031">
+  #<Mechanize::Page::Link "Amazon Ensemble" "/b?ie=UTF8&node=2887098031">
+  #<Mechanize::Page::Link
+   "Vendez sur Amazon"
+   "http://services.amazon.fr/services/vendre-sur-amazon/comment-ca-marche/?ld=AZFRSOAFooter">
+  #<Mechanize::Page::Link "Devenez Partenaire" "https://partenaires.amazon.fr">
+  #<Mechanize::Page::Link
+   "Devenez notre fournisseur via Avantage"
+   "/gp/seller-account/mm-product-page.html?ie=UTF8&topic=200403920">
+  #<Mechanize::Page::Link "Auto-publiez votre livre" "http://kdp.amazon.fr/">
+  #<Mechanize::Page::Link
+   "Tous nos programmes"
+   "/gp/seller-account/mm-landing.html?ie=UTF8&topic=200327870">
+  #<Mechanize::Page::Link
+   "Visualiser ou suivre vos commandes"
+   "/gp/css/order-history">
+  #<Mechanize::Page::Link
+   "Tarifs et options de livraison"
+   "/gp/help/customer/display.html?ie=UTF8&nodeId=548566">
+  #<Mechanize::Page::Link
+   "Amazon Premium"
+   "/gp/subs/primeclub/signup/main.html">
+  #<Mechanize::Page::Link
+   "Retourner un article"
+   "/gp/css/returns/homepage.html">
+  #<Mechanize::Page::Link
+   "Aide"
+   "/gp/help/customer/display.html?ie=UTF8&nodeId=559912">
+  #<Mechanize::Page::Link "amazon.fr" "/">
+  #<Mechanize::Page::Link "Allemagne" "http://www.amazon.de/">
+  #<Mechanize::Page::Link "Brésil" "http://www.amazon.com.br">
+  #<Mechanize::Page::Link "Canada" "http://www.amazon.ca/">
+  #<Mechanize::Page::Link "Chine" "http://www.amazon.cn/">
+  #<Mechanize::Page::Link "Espagne" "http://www.amazon.es/">
+  #<Mechanize::Page::Link "États-Unis" "http://www.amazon.com/">
+  #<Mechanize::Page::Link "Inde" "http://www.amazon.in/">
+  #<Mechanize::Page::Link "Italie" "http://www.amazon.it/">
+  #<Mechanize::Page::Link "Japon" "http://www.amazon.co.jp/">
+  #<Mechanize::Page::Link "Royaume-Uni" "http://www.amazon.co.uk/">
+  #<Mechanize::Page::Link "AbeBooks" "http://www.abebooks.fr">
+  #<Mechanize::Page::Link "Audible" "http://www.audible.fr">
+  #<Mechanize::Page::Link "Book Depository" "http://www.bookdepository.co.uk/">
+  #<Mechanize::Page::Link "Javari" "http://www.javari.fr/f/bienvenue">
+  #<Mechanize::Page::Link "MYHABIT" "http://www.myhabit.com/">
+  #<Mechanize::Page::Link "Shopbop" "http://www.shopbop.com/fr/welcome">
+  #<Mechanize::Page::Link
+   "Conditions générales de vente"
+   "/gp/help/customer/display.html?ie=UTF8&nodeId=548524">
+  #<Mechanize::Page::Link
+   "Vos informations personnelles"
+   "/gp/help/customer/display.html?ie=UTF8&nodeId=3329781">
+  #<Mechanize::Page::Link
+   "Cookies et Publicité sur Internet"
+   "/cookiesetpublicitesurinternet">}
+ {forms
+  #<Mechanize::Form
+   {name "site-search"}
+   {method "GET"}
+   {action "/s"}
+   {fields
+    [hidden:0x3fc874cada9c type: hidden name: __mk_fr_FR value: ÅMÅZÕÑ]
+    [text:0x3fc874cad90c type: text name: field-keywords value: clavier]
+    [selectlist:0x3fc874cad09c type:  name: url value: search-alias=aps]}
+   {radiobuttons}
+   {checkboxes}
+   {file_uploads}
+   {buttons [submit:0x3fc874cad77c type: submit name:  value: Go]}>}>
+#<Mechanize::Page:0x007f90e98513e0>
